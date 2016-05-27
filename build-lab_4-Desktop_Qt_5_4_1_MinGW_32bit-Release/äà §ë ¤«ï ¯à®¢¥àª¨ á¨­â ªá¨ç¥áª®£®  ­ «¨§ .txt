@@ -1,0 +1,26 @@
+//Русский
+/*
+ * Я работаю за компьютером
+ * На улице плохая погода
+ * Человек строит красивый дом
+ * Кот идет домой
+ * Я смотрю телевизор
+ * */
+
+//English
+/*
+ * I work at a computer.
+ * On the street bad weather.
+ * Man builds a beautiful home.
+ * The cat goes home.
+ * I watch TV.
+ * */
+
+//French
+/*
+ * Je travaille ? un ordinateur.
+ * Dans la rue, mauvais temps.
+ * L'homme construit une belle maison.
+ * Le chat va ? la maison.
+ * Je regarde la t?l?vision.
+ * */
